@@ -36,6 +36,7 @@ header {
 #fckblsht {
   position: fixed;
   height: 100px;
+  z-index: 1;
 }
 
 .baha1493 * {
