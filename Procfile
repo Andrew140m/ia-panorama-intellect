@@ -1,1 +1,1 @@
-web: gunicorn ia-panorama-intellect.wsgi --log-file -
+web: gunicorn iapanoramaintellect.wsgi --log-file -
