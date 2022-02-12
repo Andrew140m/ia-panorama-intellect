@@ -3,6 +3,7 @@ body {
   background-size: 30% 15%;
 }
 
+
 header {
   display: block;
   /* Для старых браузеров */
@@ -38,8 +39,8 @@ display: table;
 height:100%;
 }
 #header{
-height:100px;
-background: rgb(0,255,102);
+height:300px;
+background: url(https://abgrealty.com/images/footer-bg.jpg)
 }
 #wrapper{
 width:100%;
