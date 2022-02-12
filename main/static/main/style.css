@@ -33,6 +33,18 @@ header {
   box-shadow: 0 0 16.5px #d2e6e4;
 }
 
+#wrapper{
+display: table;
+height:100%;
+}
+#header{
+height:100px;
+background: rgb(0,255,102);
+}
+#wrapper{
+width:100%;
+}
+
 #fckblsht {
   position: fixed;
   height: 100px;
